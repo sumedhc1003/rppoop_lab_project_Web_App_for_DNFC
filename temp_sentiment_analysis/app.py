@@ -9,7 +9,7 @@ import requests
 
 app = Flask(__name__)
 
-API_KEY = "AIzaSyApo5tz7UNU0ppnwIU5tROTQ0XbMinG2qQ"
+API_KEY = ""
 base_url = "https://www.googleapis.com/youtube/v3/"
 
 def gen_word_cloud(data):
