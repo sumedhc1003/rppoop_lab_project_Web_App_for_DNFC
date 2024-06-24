@@ -1,0 +1,6 @@
+langchain
+langchain_openai
+langchain-google-genai
+openai
+tiktoken
+faiss-cpu
