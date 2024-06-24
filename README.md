@@ -1,6 +1,16 @@
 # App for COEP’s Drama and Film club (ongoing)
-  * Helping the the club in improving their media presence and providing tool for better content analysis using AI/ML.
-  * Features like content analysis by using sentiment analysis, word cloud information, sarcasm detection.
-  * Using LLM to cater the right monologue based on the users specific needs.
+* Helping the club improve their media
+presence via web app and providing tools for
+better content creation and analysis using
+AI/ML.
+* Features like sentiment analysis of feedbacks
+and comments, script analysis and
+monologue generator, etc.
+* Made use of models from Hugging Face and
+leveraged various APIs like Google’s AI API,
+OpenAI API, etc.
+* **Tech used**: HTML, CSS, Js, Flask, Hugging
+face, Langchain, LLMs.
+
 
 **NOTE**:The project is still under completion thus changes in the above features and description might occur
