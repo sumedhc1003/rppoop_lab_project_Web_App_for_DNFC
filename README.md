@@ -11,6 +11,7 @@ leveraged various APIs like Google’s AI API,
 OpenAI API, etc.
 * **Tech used**: HTML, CSS, Js, Flask, Hugging
 face, Langchain, LLMs.
+* This project was also a part of my final submission to a course at college.
 
 **NOTE**: Ive attached all the different part of my project separately.
 
