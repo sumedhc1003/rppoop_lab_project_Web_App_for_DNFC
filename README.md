@@ -14,6 +14,3 @@ face, Langchain, LLMs.
 * This project was also a part of my final submission to a course at college.
 
 **NOTE**: Ive attached all the different part of my project separately.
-
-
-**NOTE**:The project is still under completion thus changes in the above features and description might occur
